@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\unity\\3D_Engine_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|d:\\unity\\3d_engine_programming\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|d:\\unity\\3d_engine_programming\\assets\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|d:\\unity\\3d_engine_programming\\assets\\teleportplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\teleportplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|D:\\unity\\3D_Engine_Programming\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|D:\\unity\\3D_Engine_Programming\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,15 +34,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletSpawner.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\BulletSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\BulletSpawner.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\BulletSpawner.cs",
+              "RelativeToolTip": "Assets\\BulletSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:12:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeleportPlayer.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\TeleportPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\TeleportPlayer.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\TeleportPlayer.cs",
+              "RelativeToolTip": "Assets\\TeleportPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T03:06:55.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T02:53:05.149Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
@@ -38,12 +88,11 @@
               "RelativeToolTip": "Assets\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:01:59.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:01:59.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Zoo.cs",
               "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\Zoo.cs",
               "RelativeDocumentMoniker": "Assets\\Zoo.cs",
@@ -55,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HelloCode.cs",
               "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\HelloCode.cs",
               "RelativeDocumentMoniker": "Assets\\HelloCode.cs",
