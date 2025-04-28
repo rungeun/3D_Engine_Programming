@@ -4,6 +4,8 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRigidbody;
     public float speed = 8f;
+
+    private int health = 3;
     void Start()
     {
         playerRigidbody = GetComponent<Rigidbody>();
@@ -28,6 +30,9 @@ public class PlayerController : MonoBehaviour
 
     public void Die()
     {
-        gameObject.SetActive(false);
+        health -= 1;
+        if( health <= 0) { 
+            gameObject.SetActive(false);
+        }
     }
 }
