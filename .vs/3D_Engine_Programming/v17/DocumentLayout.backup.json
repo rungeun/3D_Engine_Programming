@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\3D_Engine_Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|d:\\unity\\3d_engine_programming\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|d:\\unity\\3d_engine_programming\\assets\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|D:\\unity\\3D_Engine_Programming\\assets\\hellocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1201F7-042C-7104-2717-9A127078236E}|Assembly-CSharp.csproj|solutionrelative:assets\\hellocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:01:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\Zoo.cs",
+              "RelativeDocumentMoniker": "Assets\\Zoo.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\Zoo.cs",
+              "RelativeToolTip": "Assets\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:47:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloCode.cs",
+              "DocumentMoniker": "D:\\unity\\3D_Engine_Programming\\Assets\\HelloCode.cs",
+              "RelativeDocumentMoniker": "Assets\\HelloCode.cs",
+              "ToolTip": "D:\\unity\\3D_Engine_Programming\\Assets\\HelloCode.cs",
+              "RelativeToolTip": "Assets\\HelloCode.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:15:42.459Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
